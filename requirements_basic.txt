@@ -1,0 +1,10 @@
+joblib
+matplotlib
+numpy>=1.13
+numba>=0.35
+pyod
+scipy
+pandas>0.17
+scikit_learn>=0.20
+s3fs
+flask
